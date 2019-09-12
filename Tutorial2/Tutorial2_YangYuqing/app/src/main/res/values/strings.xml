@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tutorial 2_YangYuqing</string>
+    <string name="button1">GO TO ACTIVITY 1</string>
+    <string name="button2">GO TO ACTIVITY 2 PASSING DATA TO AND FRO</string>
+    <string name="show_image1">SHOW IMAGE 1</string>
+    <string name="show_image2">SHOW IMAGE 2</string>
+    <string name="back_button">BACK TO PARENT ACTIVITY</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meteora_words">R.drawable.meteora</string>
+    <string name="dynamic_fragment2">I am Fragment2(dynamic)</string>
+</resources>
